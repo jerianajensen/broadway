@@ -1,0 +1,34 @@
+body{
+  font-family:Helvetica;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+h1{
+  font-size: 70px;
+
+}
+h2{
+  font-size: 32px;
+  color: black;
+}
+h3{
+  font-size: 23px;
+  color: black;
+}
+p{
+  font-size: 14px;
+  color: black;
+}
+#navigation{
+  font-size: 18px;
+
+}
+#banner{
+  color: white;
+}
+#footer{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
