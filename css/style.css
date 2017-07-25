@@ -21,7 +21,9 @@ p{
 #navigation{
   font-size: 18px;
   color: white;
-
+}
+h1 #navigation .banner{
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
 #contact{
   color: black;
