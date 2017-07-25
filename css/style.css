@@ -18,7 +18,9 @@ h3{
 p{
   font-size: 14px;
 }
-
+.btn-nav{
+  color: white;
+}
 div.navigation{
   font-size: 18px;
   color: white;
