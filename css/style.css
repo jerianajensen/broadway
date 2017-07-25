@@ -7,7 +7,7 @@ body{
 h1{
   font-size: 70px;
 }
-h2{
+h2.process{
   font-size: 32px;
 }
 h3{
@@ -25,6 +25,7 @@ div.navigation{
 h3.navivation{
   font-size: 23px;
   color: white;
+  text-decoration: none;
 }
 
 #footer{
@@ -32,4 +33,5 @@ h3.navivation{
   color: white;
   background-color: dimgray;
   text-align: left;
+  text-decoration: none;
 }
