@@ -1,17 +1,19 @@
 body{
   font-family:Helvetica;
   text-align: center;
-  font-weight: bold;
   color: black;
 }
 h1{
   font-size: 70px;
+  font-weight: bold;
 }
 h2.process{
   font-size: 32px;
+  font-weight: bold;
 }
 h3{
   font-size: 23px;
+  font-weight: bold;
 }
 p{
   font-size: 14px;
