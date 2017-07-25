@@ -2,10 +2,10 @@ body{
   font-family:Helvetica;
   text-align: center;
   font-weight: bold;
+  color: black;
 }
 h1{
   font-size: 70px;
-
 }
 h2{
   font-size: 32px;
@@ -24,6 +24,7 @@ div.navigation{
 }
 h3.navivation{
   font-size: 23px;
+  color: white;
 }
 
 #footer{
